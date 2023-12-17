@@ -1,3 +1,3 @@
 # bigblackmen
 
-i like black men
+Некоторые кнопки в навбаре работают
